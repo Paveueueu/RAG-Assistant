@@ -3,3 +3,7 @@ Simple RAG assistant with web interface in streamlit for indexing selected paths
 ```
 streamlit run src\app.py
 ```
+
+---
+
+<img width="1115" height="885" alt="image" src="https://github.com/user-attachments/assets/1bd7c064-87a1-4281-b89b-c271456f61e2" />
